@@ -12,4 +12,4 @@ with its title in the left bottom.
 - Vanila JavaScript
 
 ## Screenshots
-![Alt text](D:\IT\practice\5day_js\day_1\img.jpg?raw=true "Screenshot")
+![Screenshot](first.png)
