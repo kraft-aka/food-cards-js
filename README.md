@@ -12,4 +12,4 @@ with its title in the left bottom.
 - Vanila JavaScript
 
 ## Screenshots
-![Screenshot](first.png)
+
